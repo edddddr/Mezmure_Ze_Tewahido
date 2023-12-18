@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="title_story1">
+        <item>አበባየሆሽ ቁ.1</item>
+        <item>አበባየሆሽ ቁ.2</item>
+        <item>አበባየሆሽ ቁ.3</item>
+        <item>መስከረም ጠባ</item>
+        <item>ለባርኮ አውደዓመት</item>
+        <item>አውደዓመት</item>
+        <item>ባርክለነ</item>
+        <item>የአዋጅ ነጋሪ ቃል</item>
+        <item>ወንንተኒ ሕጻን</item>
+        <item>እምሄሶ ለሄሮድስ</item>
+        <item>እም ዓመት</item>
+        <item>ጸሊ ሀበ አምላክ</item>
+        <item>ራጉኤልእም ሰማያት</item>
+    </string-array>
+
+
+    <string-array name="title_story2">
+        <item>.ኧኸ በመስቀልከ</item>
+        <item>ዝንቱ መስቀል</item>
+        <item>መርሕ በፍኖት</item>
+        <item>ወሪዶ</item>
+        <item>መስቀል ቤዛችን ነው</item>
+        <item>መስቀልከ</item>
+        <item>መስቀል ተመርኩዘን</item>
+        <item>ኃበ ቀራንዮ</item>
+        <item>ዕፀ መስቀል</item>
+        <item>አየኸው ደመራ</item>
+        <item>መስቀልኃይላችን ነው</item>
+        <item>በመስቀልከ</item>
+        <item>ይትቀደስ ስምከ</item>
+        <item>ዕሌሊ ንግሥት</item>
+        <item>መስቀል ብርሃነ</item>
+        <item>ዮምሰ</item>
+        <item>መስቀልኃይልነ</item>
+        <item>ጥልን በመስቀሉ</item>
+        <item>በመስቀሉ ወበቃሉ</item>
+        <item>በወንጌሉ</item>
+        <item>ይቤሎሙ ኢየሱስ</item>
+        <item>ኃይልነ ወጸወን</item>
+        <item>ርዕዩ ዕበዩቁ.1</item>
+        <item>መስቀል አብርሃ</item>
+        <item>ዮም መስቀልአስተርአየ</item>
+        <item>መስቀል ብርሃ</item>
+        <item>ርዕዩ ዕበዩቁ.2</item>
+        <item>ብርሃን ወጣ</item>
+        <item>ደስ ይበለን</item>
+        <item>መስቀሉሰ</item>
+        <item>መስቀል አበባ</item>
+    </string-array>
+
+    <string-array name="title_story3">
+
+
+        <item>አዘክሪ ድንግል</item>
+        <item>አንዘ ተሀቀፊዮ</item>
+        <item>ጌራ ወርቅ</item>
+        <item>አክሊለ ጽጌ</item>
+        <item>እስከ ማኅዜኑ</item>
+        <item>መአዛሆሙ ለቅዱሳን</item>
+        <item>ማርያም ጎየኪ</item>
+        <item>እስመ ውእቱ</item>
+        <item>ከማኃ ሀዘን</item>
+        <item>እምነ እምነ ንዒ</item>
+        <item>ክበበ ጌራወርቅ</item>
+        <item>ከመጽጌ ሮማን</item>
+        <item>ምስለ ሚካኤል</item>
+        <item>መዓዛ አፈዋት</item>
+        <item>ክበበ ጌራ ወርቅ</item>
+        <item>ምዕረ በገቦኪ</item>
+        <item>ማርያም ሥነተክለ ጽጌ</item>
+        <item>ብኪ ይትፌሥሑ</item>
+    </string-array>
+
+    <string-array name="title_story4">
+        <item>ተፈጸመ</item>
+        <item>በበረት የተኛው</item>
+        <item>ተወለደ ጌታ</item>
+        <item>በወንጌል አናፍርም</item>
+        <item>እንዘምርሁላችን</item>
+        <item>እልል እልል ደስይበለን</item>
+        <item>ሀሌ ሀሌሉ</item>
+        <item>ተወለደ ጌታ ሩሩህ ጌታ</item>
+        <item>ይኸው ተወለደ</item>
+        <item>ልደት አበባ</item>
+        <item>የበጎች እረኛ</item>
+        <item>አንቺ አንቺ ቤተልሔም</item>
+        <item>ዮም ሰማያዊ</item>
+        <item>ስብሀት ለእግዚአብሔር</item>
+        <item>ቤዛ ኩሉ</item>
+        <item>በኮከብ መጽኡ</item>
+        <item>ውስተ ማኅጸነ</item>
+        <item>እም ሰማያት</item>
+        <item>ተወልደ ኢየሱስ</item>
+        <item>የጥበብ ሰዎች መጡ</item>
+        <item>ቃል ተጸን</item>
+        <item>ሣር ቅጠሉ ሰርዶው</item>
+        <item>ብርሃን ዘመጽ</item>
+        <item>እስመ እምዘር</item>
+        <item>ሠማይ ተከፈ</item>
+        <item>በኤፍራታ ምድር</item>
+        <item>የሚያቃጥል እሣት</item>
+        <item>በጎል ሰከበ</item>
+        <item>እኛን ሊያድነን ነው</item>
+        <item>ተወለደ ተወለደ</item>
+    </string-array>
+
+    <string-array name="title_story5">
+
+        <item>ከድንግል ተወልዶ</item>
+        <item>የሠላሙ መሪ</item>
+        <item>በጎል በጎል</item>
+        <item>ምን ሰማህ ዮሐንስ</item>
+        <item>ጥምቀተ ባሕር</item>
+        <item>እሠይ እሠይ</item>
+        <item>የዓለምን በደል</item>
+        <item>ዮሐንስ አጥመቆ</item>
+        <item>ሖረ ኢየሱስ</item>
+        <item>መጽ አቃል</item>
+        <item>ኃዲጎ ተስዐ</item>
+        <item>ሀሌ ሀሌሉያ</item>
+        <item>ኃዲጎ ተስዐ</item>
+        <item>ወተመሰሉ</item>
+        <item>ኧኸ ኃዲጎ ተስዐ</item>
+        <item>ዮሐንስኒ ሀሎ</item>
+        <item>ወወለደት</item>
+        <item>በፍስሐ ወበሠላም</item>
+        <item>ወረደ ወልድ</item>
+        <item>በእደ ዮሐንስ</item>
+        <item>እንዘሕጻን</item>
+        <item>መድኃኒነ ተጠምቀ</item>
+        <item>አማን በአማን</item>
+        <item>በመንፈስ የሐውር</item>
+        <item>ሀዲጎ ተስ</item>
+        <item>ክርስቶስ ተወልደ ወተጠምቀ</item>
+        <item>ጥምቀትከ</item>
+        <item>ርእዩከ</item>
+        <item>ዮሐንስኒ</item>
+        <item>በስመ አብ</item>
+        <item>በዛሬው ጥምቀቱ</item>
+        <item>ግነዩ ለእግዚአብሔር</item>
+        <item>ኢየሱስ ሆረ</item>
+        <item>ምድርኒ ርእየቶ ወአኮቴቶ</item>
+        <item>ኑኑ እንደሰት</item>
+        <item>አምላክ ከዮርዳኖስ</item>
+    </string-array>
+
+    <string-array name="title_story6">
+
+        <item>ደስ አለው ጌታ</item>
+        <item>መጽአ መርአዊ</item>
+        <item>ደስ አላት ቤተ/ክ</item>
+        <item>መርአዊ ሰማያዊ</item>
+        <item>ድንቅ ነው በጣም</item>
+        <item>በትፍስይት</item>
+        <item>ሀመልማለ ወርቅ ቁ.1</item>
+        <item>ሀመልማለ ወርቅ ቁ.2</item>
+        <item>ሀመልማለ ወርቅ ቁ.3</item>
+        <item>መርአዊ ስቡህ</item>
+        <item>አክሊለ አክሊላት</item>
+        <item>ትወጽህ መርአ</item>
+        <item>ብፁ ዕአንተ</item>
+        <item>አልቦ ሙስና</item>
+        <item>መርአዊ ሰናይ</item>
+        <item>ከብካብ ክቡር</item>
+        <item>ኖላዊ ትጉህ</item>
+        <item>ሙሽሪት ሙሽራ</item>
+        <item>ልኡል ሰምራ</item>
+        <item>መጽአ መርአዊ</item>
+        <item>ደመቀ አበራልን</item>
+        <item>ንጽኅይት ቅድስት</item>
+        <item>ሙሽሮች እንኳን ደስአላችሁ</item>
+        <item>ዮም ፍስሐኮነ</item>
+        <item>ሁለቱም አንድ ሆ ኑዛሬ</item>
+        <item>ደስ አላቸው</item>
+        <item>ዘበዳዊት</item>
+        <item>እያቄም ወሃና</item>
+        <item>መጽአ</item>
+        <item>በክብር ዙፋኑ</item>
+        <item>በሰርጋችን ዕለት</item>
+        <item>ይህን ላደረገ</item>
+        <item>ኑ ተመልከቱልኝ</item>
+        <item>ደስአላቸው ቁ.1</item>
+        <item>ደስአላቸው ቁ.2</item>
+        <item>የቃናው ደስታ</item>
+        <item>ቃና ዘገሊላ</item>
+        <item>አጅቡት በእልልታ</item>
+        <item>ሙሽራዬ</item>
+        <item>አዳም ሆይ</item>
+    </string-array>
+
+    <string-array name="title_story7">
+        <item>አደባባይ ቆሜ</item>
+        <item>ከሆነው በላይነው</item>
+        <item>እያለፈነው ዘመኔ</item>
+        <item>አልተወኝም</item>
+        <item>የአብርሃም አምላክ</item>
+        <item>እኔስ በምግባሬ</item>
+        <item>ሙታንን ያድን ዘንድ</item>
+        <item>ስለ እኛ ብሎ</item>
+        <item>ምድረ ቀራንዮ</item>
+        <item>እግዚአብሔር መልካም ነው</item>
+        <item>አለምን ዞሬ</item>
+        <item>እውነት ስለሆነ</item>
+        <item>ሃይማኖት</item>
+        <item>በእፀ መስቀልላይ</item>
+        <item>አዛኝቷ</item>
+        <item>እድኚኝ እናቴ</item>
+        <item>በመከራ ጽና</item>
+        <item>ደካማ ልጅህን</item>
+        <item>ፍቅርና ሠላም</item>
+        <item>ጌታ ሆይ</item>
+        <item>ተይ ተመከሪ</item>
+        <item>አምላክ ሆይ</item>
+        <item>በእግዚአብሔር ተጠርተን</item>
+        <item>እንደ በግ</item>
+        <item>እመቤቴ ማርያም</item>
+        <item>ኢትዮጵያሆ ይተነሽ</item>
+        <item>ነብዪ ዳንኤል</item>
+        <item>የድሆች መጠጊያ</item>
+    </string-array>
+
+    <string-array name="title_story8">
+        <item>ሆሳህና በአርያም</item>
+        <item>እም አፈደቂቅ</item>
+        <item>እምርት ዕለት</item>
+        <item>በእግዚአብሔር ስም</item>
+        <item>ሠላምሽ ዛሬ ነው</item>
+        <item>ሆሳህና በሉ</item>
+        <item>ሆሳህና እምርት</item>
+        <item>ይባእ</item>
+        <item>አምላከ ስብሀት</item>
+        <item>ቡሩክ ዘመጽህ</item>
+        <item>በትፍስይት ቦአ</item>
+        <item>አብርሂ ጽዮን</item>
+        <item>ወተቀበልዎ</item>
+        <item>ንፍሑ ቀርነ</item>
+    </string-array>
+
+    <string-array name="title_story9">
+        <item>እዩና እመኑ</item>
+        <item>ክርስቶስ ተንስአ እሙታ</item>
+        <item>ትንሣኤከ</item>
+        <item>ወምድርኒ</item>
+        <item>እም እቶነ እሳት</item>
+        <item>ተስፋ ሕይወት</item>
+        <item>የሕያዋን አምላክ</item>
+        <item>ይኸው ተነሳ</item>
+        <item>ሞኦ ለሞት</item>
+        <item>እሠይ ተነሳ</item>
+        <item>ፋሲካ ፋሲካ</item>
+        <item>ፋሲካ ብሂል</item>
+        <item>ፈኑ ዲበነ ብርሃነከ</item>
+        <item>ገብረ ሰላም በመስቀሉ</item>
+        <item>ዮም ፍስሀኮነ</item>
+        <item>ዛቲ ፋሲካ</item>
+        <item>ይቤሎ እግዚኦ</item>
+        <item>ክርስቶስ ተንስ አእሙታን</item>
+        <item>ክርስቶስ ተነሳ</item>
+        <item>አማን በአማን</item>
+        <item>ቀደሳ ወአክበራ</item>
+        <item>ሰበካ ትንሣኤ</item>
+        <item>ሰላም ሰላም</item>
+
+
+    </string-array>
+
+    <string-array name="title_story10">
+        <item>ለዚህ ያደረሰን</item>
+        <item>ተናገሩ</item>
+        <item>መድኃኔዓለም ወሃቤ ሠላም</item>
+        <item>ለጌታዬ</item>
+        <item>ኃይል የእግዚአብሔር ነው</item>
+        <item>ቸርነቱ</item>
+        <item>ብርሃኔ አንተነህ</item>
+        <item>በገና አንስተን</item>
+        <item>ስለማይነገር ስጦታው</item>
+        <item>ምስጋና አቀርባለው</item>
+        <item>ሠላም ሠላም</item>
+        <item>እናመስግነው</item>
+        <item>ምስጉንነው</item>
+        <item>ንሴብሆ ለእግዚአብሔር</item>
+        <item>ያልጠፋነው</item>
+        <item>እግዚአብሔርን አመስግኑ</item>
+        <item>ደስ ይበለን</item>
+        <item>አድርግህልኛልና</item>
+        <item>ወደማደሪያው ገብቼ</item>
+        <item>ደስ ይበለን በጣም</item>
+        <item>ከክርስቶስ ፍቅር</item>
+        <item>አንደበቴም ያውጣ</item>
+        <item>በፍቅር ተስቦ</item>
+        <item>የኃያላን ኃያል</item>
+        <item>ይረድአነ</item>
+        <item>ነአምን በአብ</item>
+        <item>መድኃኔዓለም ክርስቶስ</item>
+        <item>ሠራዊተ</item>
+        <item>መወኑመሀሪ</item>
+        <item>አቀድም አእኮቶቶ</item>
+        <item>ኢየሱስክርስቶስ</item>
+        <item>እሣተጽርሁ</item>
+        <item>ዘሠማየ ገብረ</item>
+        <item>ይለመነናል</item>
+        <item>መድኃኔዓለም የዓለም ቤዛ</item>
+        <item>ኩሉከንቱ</item>
+        <item>አልቦ ዘከማየ</item>
+        <item>ኩሉ ይሰግድ</item>
+        <item>ደምረነ</item>
+        <item>ኖላዊት ጉህ</item>
+        <item>አማን በአማን</item>
+        <item>ንጉሥ ውዕቱ</item>
+        <item>ስብሀት ለሥላሴ</item>
+        <item>መድኃኔዓለም አዳነን</item>
+        <item>ሥላሴን አመስግኑ</item>
+        <item>የሥላሴ መንበር</item>
+        <item>ዘይክል ኩሉ</item>
+        <item>ኑ በብርሃኑ</item>
+        <item>ድንቅ አድርጎልኛል</item>
+        <item>አውነተኛ ሠላም</item>
+        <item>እግዚአብሔር እረኛዬ ነው</item>
+        <item>ሠዎች እንዘምር ለአምላካችን</item>
+        <item>በበጎ ፈቃዱ</item>
+        <item>እልል በሉ</item>
+        <item>አማን በአማን</item>
+        <item>ጠቢብ በጥበቡ</item>
+        <item>ዝናው በዓለም</item>
+        <item>ስላደረክልኝ</item>
+        <item>እንደእግዚአብሔር ያለ</item>
+        <item>በሕይወት አቆይቶ</item>
+        <item>መልካም አደረገ</item>
+        <item>ኩሉ ዘፈቀደ</item>
+        <item>ምስጋና በዝቷል</item>
+        <item>ገና እንዘምራለን</item>
+        <item>ይትባረክ እግዚአብሔር</item>
+        <item>ንሴብሆ ለሥላሴ</item>
+        <item>ለዓለም ነውና</item>
+        <item>ክርስቶስ ሆይ</item>
+    </string-array>
+
+    <string-array name="title_story11">
+
+        <item>ማርያም ፊደል</item>
+        <item>በምድራዊ ሕይወት</item>
+        <item>መሠረተ ሕይወት</item>
+        <item>እመቤቴ ጥላ ከለላዬ</item>
+        <item>እመቤታችን ማርያም</item>
+        <item>የመላእክት እሕት</item>
+        <item>ትውልድ ሁሉ</item>
+        <item>ኦ ማርያም</item>
+        <item>ሰአሊለነ ማርያም</item>
+        <item>ማርያም</item>
+        <item>ማርያም ቅድስት</item>
+        <item>ማርያም ድንግል</item>
+        <item>ይዌድስዋ</item>
+        <item>ንጽሕይተ ንጹሐን</item>
+        <item>እንተ በምድር</item>
+        <item>መንክር ግርማ</item>
+        <item>ማርያም ተዓቢ</item>
+        <item>ክነፈ ርግብ</item>
+        <item>አንቲ ውዕቱ</item>
+        <item>ሠላም ለኪ</item>
+        <item>ክብረ ቅዱሳን</item>
+        <item>መሀርኒ ድንግል</item>
+        <item>ነበል ባል ግሩም\</item>
+        <item>ኧኸ ማርያምሰ</item>
+        <item>ሠላም ሠላም ለኪ</item>
+        <item>ለውዳሴ ሽልትጋ</item>
+        <item>ማርያም ደስ ይበልሽ</item>
+        <item>ንዒ ንዒ</item>
+        <item>የጽድቅ በር ነሽ</item>
+        <item>ለምኚ</item>
+        <item>ሠአሊለነ ቅድስት</item>
+
+        <item>ማኅደረ መለኮት</item>
+        <item>አንቺ የወይን ሀረግ</item>
+        <item>የእኔ ተስፋ</item>
+        <item>በሀዘኔ ደራሽ ነሽ</item>
+        <item>በምን በምን</item>
+        <item>ሀረገ ወይን</item>
+        <item>መሶበ ወርቅ</item>
+        <item>ለማርያም</item>
+        <item>አንቲ ዘበአማን</item>
+        <item>ደስ ይበልሽ</item>
+        <item>የብርሃን ምንጭናት</item>
+        <item>ኪዳነ ምሕረ</item>
+        <item>መርሕ ዘገነት</item>
+        <item>የኪዳን ጽላት</item>
+        <item>ትህትናሽ ግሩም ነው</item>
+        <item>ተፈስሂ</item>
+        <item>ባክኛለሁና</item>
+
+        <item>ከሴቶቹ ሁሉ</item>
+        <item>ምስራቀ ምስራቃት</item>
+        <item>እመ አምላክ</item>
+        <item>በሠማያት ታላቅ ክበርያለሽ</item>
+        <item>ስብሀት ለማርያም</item>
+        <item>እመቤቴ የአምላክ እናት</item>
+        <item>ትውልድ ሁሉ</item>
+        <item>ልዑለ ሠምራ</item>
+        <item>ሠአሊለነ ማርያም</item>
+        <item>ኪዳነኪኮነ</item>
+        <item>ሶበሰ ኪዳነኪ</item>
+        <item>ነይ ነይ ማርያም</item>
+        <item>ልቤን አነሳስቶ</item>
+        <item>እንለምንሻለን</item>
+        <item>በሀዘኔም በጭ ንቀቴም</item>
+        <item>በሀጢዓት ሆኜ</item>
+        <item>ሰአሊለነ</item>
+        <item>ስምሽን ጠርቼ</item>
+        <item>ውዳሴ ማርያም</item>
+        <item>ማርያም</item>
+
+        <item>ዮም ፍስሐኮነ</item>
+        <item>ከሊባኖስ</item>
+        <item>ተወልዳለችና</item>
+        <item>ኮነ ዮም</item>
+        <item>አእይንታ ዘርግብ</item>
+        <item>አማን በአማን</item>
+        <item>አልብኪ ነውር</item>
+        <item>አስተርዮ</item>
+        <item>በሠማይኮነ</item>
+        <item>ሞትሰ</item>
+
+    </string-array>
+
+    <string-array name="title_story12">
+
+        <item>ኃያል ኃያል</item>
+        <item>አማላጅ ነው</item>
+        <item>ሚካኤል ወዳጄ</item>
+        <item>ባህራነኒ</item>
+        <item>የስሙ ትርጓሜ</item>
+        <item>በአምሳለ ርግብ</item>
+        <item>ወእቱ ሊቆሙ</item>
+        <item>ተወከፍ ጸሎተነ</item>
+        <item>መልአከ ሠላምነ</item>
+        <item>ውእቱ ሚካኤል</item>
+        <item>ቀዋምያን</item>
+        <item>ኦሚካኤል</item>
+        <item>አምላከ እስራኤል</item>
+        <item>ሚካኤል ስዩም</item>
+        <item>ሚካኤል ሊቀ መላእከክት</item>
+        <item>ምስለ ሚካኤል</item>
+        <item>ሚካኤል ሐመልማለ ወርቅ</item>
+        <item>ሰፊሆ ክነፊሆ</item>
+        <item>ከመ ትባርከነ</item>
+        <item>ባህራነኒ</item>
+        <item>ዓይኑ ዘርግብ</item>
+        <item>ነዋ ሚካኤል</item>
+        <item>ሚካኤል መጽአ</item>
+        <item>መና ዘአውረድከ</item>
+        <item>ዝኬ ወእቱ</item>
+        <item>በአምሳለ ርግብ</item>
+        <item>አንተ ቅ/ሚካኤል</item>
+        <item>ለእኔ ያደረገው</item>
+        <item>ከሚካኤል ጋር</item>
+        <item>ሚካኤል በክንፉ</item>
+        <item>ልኡል ውእቱ</item>
+        <item>ፈተና ቢገጥማት</item>
+    </string-array>
+
+    <string-array name="title_story13">
+
+        <item>ሕጻን ወእሙ</item>
+        <item>ይቤላ ሕጻን</item>
+        <item>ይቤላ ሕጻን ለእሙ</item>
+        <item>ገብርኤል ምልአኒ</item>
+        <item>ክብሮሙ ለመላእክት</item>
+        <item>ክንፎ ፀለላ</item>
+        <item>የራማው ልዑል</item>
+        <item>ገብርኤል ነው</item>
+        <item>እምልማደ ሣህልከ</item>
+        <item>አባ አቡነ</item>
+        <item>ገድሉ ታምራቱ</item>
+        <item>ቁጥርህ ከመላእክት</item>
+        <item>ዜና ውዳሴከ</item>
+        <item>ለተክለ ኃይማኖት ጻድቅ</item>
+        <item>ተክለ ኃይማኖት ፀሀይ</item>
+        <item>ፍጡነ ረድኤት</item>
+        <item>ጊዮርጊስ ኃያል</item>
+        <item>ጊዮርጊስ መሰከረ</item>
+        <item>ዘረሁ ስጋሁ</item>
+        <item>አእሚሮ ጊዮርጊስ</item>
+        <item>ባርከን ባርከን</item>
+        <item>የጻድቃን መዓዛ</item>
+        <item>እስጢፋኖስ ሰማዕት</item>
+        <item>መራሆቱ ለአረጋዊ</item>
+        <item>ደብሩሰ</item>
+        <item>ዳኃንኑ ዝስኩ</item>
+        <item>ለሀገሬትነ ሠላማ</item>
+        <item>ጼና አልባሲሁ</item>
+        <item>ኦ ቅዱስ ዮሐንስ አፈወርቅ</item>
+        <item>የሕይወትን መዝገብ</item>
+
+        <item>ሰዓሉለነ</item>
+        <item>ተዋህዶንጽህይት</item>
+        <item>ቤሑክአሐቲ</item>
+        <item>በደምህዋጅተህ</item>
+        <item>ሠላም ለኢትዮጵያ</item>
+        <item>ኢትዮጵያታበጽህ</item>
+        <item>ጸለዩባስልዮስ</item>
+        <item>አብርሃወሰዱ</item>
+        <item>ሀነጽዋ</item>
+        <item>በአገልግሎታችን</item>
+        <item>ያከብርዋ</item>
+        <item>ዜኖኩጽድቀከ</item>
+        <item>ተቀደሲ</item>
+        <item>ኢይታጽሁ</item>
+        <item>ሊተሰ</item>
+        <item>ጴጥሮስወጳውሎስ</item>
+        <item>ያሬድወጠነማኅሌት</item>
+        <item>መሠረተዜማ</item>
+        <item>ያሬድካሕኑ</item>
+        <item>ያሬድእናስታውስህ</item>
+        <item>ያሬድሀዋርያ</item>
+        <item>ዝማሬዳዊት</item>
+
+    </string-array>
+
+    <string-array name="title_story14">
+        <item>1.ሀ ሁ</item>
+        <item>2.እግዚአብሔርን ጠራሁት</item>
+        <item>3.ኑ በእግዚአብሔር ደስ ይበለን</item>
+        <item>4.እናመስግነው</item>
+        <item>5.ኦ_ክርስቶስ</item>
+        <item>6.በፍቅር ተስቦ</item>
+        <item>7.ይለመነናል</item>
+        <item>8.አድርገህልኛልና</item>
+        <item>9.ሰዎች ደስ ይበለን</item>
+        <item>10.መድሀኒያለም አዳነን</item>
+        <item>11.ሞገድ ሲመታኝ ማዕበሉ</item>
+        <item>12.አንደበቴም ያውጣ</item>
+        <item>14.የመስቀሉ ፍቅር</item>
+        <item>15.በጌቴ ሰማኔ</item>
+        <item>16.አንቲ ዘበአማን</item>
+        <item>17.አንቺ የወይን ሀረግ</item>
+        <item>18.ትህትናሽ ግሩም ነው</item>
+        <item>19.ለምኚ ድንግል ለምኚ</item>
+        <item>20.ሠላም ለኪ</item>
+        <item>21.ለማርያም</item>
+        <item>22.ነይ ነይ</item>
+        <item>23.እናት አለኝ</item>
+        <item>24.የፍቅር እናት የሰላም</item>
+        <item>25.ውዳሴ ማርያም</item>
+        <item>26.እናቴ እመቤቴ</item>
+        <item>27.ስምሽን ጠርቼ</item>
+        <item>28.ደጅ ጠናሁ</item>
+        <item>29.አረሳዉም</item>
+        <item>30.ክብረ ቅዱሳን</item>
+        <item>31.ወእመአኮ</item>
+        <item>32.ተክለሃይማኖት ፀሐይ</item>
+        <item>33.ሐዋርያው መነኩሴ</item>
+        <item>34.ፃድቁ</item>
+        <item>35.ፅኑ ሰማዕት</item>
+        <item>36.በዙራያችን ካሉ</item>
+        <item>37.ሊቀ መላክ</item>
+        <item>38.ሚካኤል ነው </item>
+        <item>39.ይበራል በክንፉ</item>
+        <item>40.ገብርኤል_ኃያል</item>
+        <item>41.ገና እንዘምራለን</item>
+        <item>42.ለነብስ ወደ ፀሎት</item>
+        <item>43.የኛ ነው</item>
+        <item>44.ኢትዮጵያ ሰላምሽ ይብዛ</item>
+    </string-array>
+
+
+
+</resources>
