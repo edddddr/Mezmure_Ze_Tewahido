@@ -22,7 +22,7 @@
 ## Sample Code
 
 
-#####Java
+####Java
 
 
     public class Mawicha1 extends AppCompatActivity implements View.OnClickListener {
@@ -90,7 +90,7 @@
     
         }
 
-#####XML
+####XML
 
 
     <?xml version="1.0" encoding="utf-8"?>
