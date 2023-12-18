@@ -138,6 +138,22 @@
 > -  List views
 > - Lyrics Container
 
+`Home page`
+
+![photo_4_2023-12-07_10-05-42](https://github.com/edddddr/Mezmure_Ze_Tewahido/assets/97146464/893a3a0b-7e9e-447b-b570-f30f88dcaa29)
+
+  `CardeViews`
+
+![photo_2_2023-12-07_10-05-42](https://github.com/edddddr/Mezmure_Ze_Tewahido/assets/97146464/50b1d7c9-4952-4175-ad2a-16cec05628c2)
+
+ `List views`
+
+![photo_3_2023-12-07_10-05-42](https://github.com/edddddr/Mezmure_Ze_Tewahido/assets/97146464/548a2a7b-5df8-413b-a472-945e56a260e4)
+
+`Lyrics Container`
+
+![photo_1_2023-12-07_10-05-42](https://github.com/edddddr/Mezmure_Ze_Tewahido/assets/97146464/2491a94a-324e-43c5-b4b3-8b119db83792)
+
 
 
 
