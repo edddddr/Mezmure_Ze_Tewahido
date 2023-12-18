@@ -23,112 +23,114 @@
 #####Java
 
     public class Mawicha1 extends AppCompatActivity implements View.OnClickListener {
-            private CardView Meze1;
-	                    CardView Meze2;
-			                    CardView Meze3;
-					                    Toolbar mToolbar;
-							            @Override
-								            protected void onCreate(Bundle savedInstanceState) {
-									                super.onCreate(savedInstanceState);
-											            setContentView(R.layout.activity_mawicha1);
-												        
-													            //call toolbar id form xml and set toolbar instead of action bar
-														                mToolbar = (Toolbar)findViewById(R.id.toolbar);
-																            setSupportActionBar(mToolbar);
-																	        
-																		            Meze1 = (CardView) findViewById(R.id.Meze1);
-																			                Meze2 = (CardView) findViewById(R.id.Meze2);
-																					            Meze3 = (CardView) findViewById(R.id.Meze3);
-																						        
-																							    
-																							        
-																								            Meze1.setOnClickListener(this);
-																									                Meze2.setOnClickListener(this);
-																											            Meze3.setOnClickListener(this);
-																												        
-																													              //for back arrow button
-																														                  getSupportActionBar().setDisplayShowHomeEnabled(true);
-																																              getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-																																	          
-																																		          }
-																																			      
-																																			              //set on option menu for back button arrow
-																																				              @Override
-																																					              public boolean onOptionsItemSelected(@NonNull MenuItem item) {
-																																						          
-																																							              if(item.getItemId()==android.R.id.home){
-																																								                      finish();
-																																										                  }
-																																												              return super.onOptionsItemSelected(item);
-																																													              }
-																																														          
-																																															          //set onclick for each Activities
-																																																          @Override
-																																																	          public void onClick(View v) {
-																																																		              Intent i;
-																																																			                  switch (v.getId()) {
-																																																					                  case R.id.Meze1:
-																																																							                      i = new Intent(this,Mezmur1.class);startActivity(i);
-																																																									                          break;
-																																																												      
-																																																												                      case R.id.Meze2:
-																																																														                          i = new Intent(this,Mezmur2.class);startActivity(i);
-																																																																	                      break;
-																																																																			          
-																																																																				                  case R.id.Meze3:
-																																																																						                      i = new Intent(this,Mezmur3.class);startActivity(i);
-																																																																								                          break;
-																																																																											      
-																																																																											                  }
-																																																																													      
-																																																																													          
-																																																																														          }
-																																																																															      
-																																																																															          
-																																																																																          }
+        private CardView Meze1;
+                CardView Meze2;
+                CardView Meze3;
+                Toolbar mToolbar;
+        @Override
+        protected void onCreate(Bundle savedInstanceState) {
+            super.onCreate(savedInstanceState);
+            setContentView(R.layout.activity_mawicha1);
+    
+            //call toolbar id form xml and set toolbar instead of action bar
+            mToolbar = (Toolbar)findViewById(R.id.toolbar);
+            setSupportActionBar(mToolbar);
+    
+            Meze1 = (CardView) findViewById(R.id.Meze1);
+            Meze2 = (CardView) findViewById(R.id.Meze2);
+            Meze3 = (CardView) findViewById(R.id.Meze3);
+    
+    
+    
+            Meze1.setOnClickListener(this);
+            Meze2.setOnClickListener(this);
+            Meze3.setOnClickListener(this);
+    
+              //for back arrow button
+            getSupportActionBar().setDisplayShowHomeEnabled(true);
+            getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+    
+        }
+    
+        //set on option menu for back button arrow
+        @Override
+        public boolean onOptionsItemSelected(@NonNull MenuItem item) {
+    
+            if(item.getItemId()==android.R.id.home){
+                finish();
+            }
+            return super.onOptionsItemSelected(item);
+        }
+    
+        //set onclick for each Activities
+        @Override
+        public void onClick(View v) {
+            Intent i;
+            switch (v.getId()) {
+                case R.id.Meze1:
+                    i = new Intent(this,Mezmur1.class);startActivity(i);
+                    break;
+    
+                case R.id.Meze2:
+                    i = new Intent(this,Mezmur2.class);startActivity(i);
+                    break;
+    
+                case R.id.Meze3:
+                    i = new Intent(this,Mezmur3.class);startActivity(i);
+                    break;
+    
+            }
+    
+    
+        }
+    
+    
+        }
 
-																																																																																	  #####XML
-																																																																																	      <?xml version="1.0" encoding="utf-8"?>
-																																																																																	          <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-																																																																																		          xmlns:app="http://schemas.android.com/apk/res-auto"
-																																																																																			          xmlns:tools="http://schemas.android.com/tools"
-																																																																																				          android:layout_width="match_parent"
-																																																																																					          android:layout_height="match_parent"
-																																																																																						          android:orientation="vertical"
-																																																																																							          tools:context=".Mezmur1">
-																																																																																								      
-																																																																																								          
-																																																																																									      
-																																																																																									              <include
-																																																																																										                  android:id="@+id/toolbar"
-																																																																																												              layout="@layout/toolbar" />
-																																																																																													              <TextView
-																																																																																														                  android:id="@+id/emptyVeiw"
-																																																																																																              android:layout_width="wrap_content"
-																																																																																																	                  android:layout_height="wrap_content"
-																																																																																																			              android:layout_centerInParent="true"
-																																																																																																				                  android:text="No Results"
-																																																																																																						              android:textSize="20sp"
-																																																																																																							                  android:visibility="gone"/>
-																																																																																																									      
-																																																																																																									          
-																																																																																																										          <ListView
-																																																																																																											              android:id="@+id/list2"
-																																																																																																												                  android:layout_width="match_parent"
-																																																																																																														              android:layout_height="wrap_content"
-																																																																																																															                  android:layout_below="@+id/toolbar" />
-																																																																																																																	      
-																																																																																																																	          
-																																																																																																																		      </RelativeLayout>
+#####XML
+    <?xml version="1.0" encoding="utf-8"?>
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context=".Mezmur1">
+    
+    
+    
+        <include
+            android:id="@+id/toolbar"
+            layout="@layout/toolbar" />
+        <TextView
+            android:id="@+id/emptyVeiw"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="No Results"
+            android:textSize="20sp"
+            android:visibility="gone"/>
+    
+    
+        <ListView
+            android:id="@+id/list2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/toolbar" />
+    
+    
+    </RelativeLayout>
 
 
 
-																																																																																																																		      ## UI/UX
-																																																																																																																		      - The UI/UX is designed using Adobe XD.
-																																																																																																																		      - Their is four common layout pages.
-																																																																																																																		      > -  Home page
-																																																																																																																		      > -  CardeViews
-																																																																																																																		      > -  List views
-																																																																																																																		      > - Lyrics Container
+## UI/UX
+- The UI/UX is designed using Adobe XD.
+- Their is four common layout pages.
+> -  Home page
+> -  CardeViews
+> -  List views
+> - Lyrics Container
+
+
 
 
