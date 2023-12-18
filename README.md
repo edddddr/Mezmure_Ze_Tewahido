@@ -17,7 +17,7 @@
 | ------------ |
 |[ .idea](https://github.com/edddddr/Mezmure_Ze_Tewahido/tree/main/.idea " .idea")  |
 |[app](https://github.com/edddddr/Mezmure_Ze_Tewahido/tree/main/app "app")   |
-|[gradle/wrapper](https://github.com/edddddr/Mezmure_Ze_Tewahido/tree/main/gradle/wrapper "gradle/wrapper")   |
+|[gradle/wrapper](https://github.com/edddddr/Mezmure_Ze_Tewahido/tree/main/gradle/wrapper "gradle/wrapper")
 
 ## Sample Code
 
@@ -140,11 +140,7 @@
 
 `Home page`
 
-![photo_4_2023-12-07_10-05-42](https://github.com/edddddr/Mezmure_Ze_Tewahido/assets/97146464/893a3a0b-7e9e-447b-b570-f30f88dcaa29)
-
-  `CardeViews`
-
-![photo_2_2023-12-07_10-05-42](https://github.com/edddddr/Mezmure_Ze_Tewahido/assets/97146464/50b1d7c9-4952-4175-ad2a-16cec05628c2)
+![photo_4_2023-12-07_10-05-42](https://github.com/edddddr/Mezmure_Ze_Tewahido/assets/97146464/893a3a0b-7e9e-447b-b570-f30f88dcaa29)     ![photo_2_2023-12-07_10-05-42](https://github.com/edddddr/Mezmure_Ze_Tewahido/assets/97146464/50b1d7c9-4952-4175-ad2a-16cec05628c2)
 
  `List views`
 
