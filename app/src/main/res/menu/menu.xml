@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+
+
+        <item
+            android:id="@+id/maddis"
+            android:title="የአዲሰዓመት"
+            android:icon="@drawable/ic_baseline_menu_book_24"/>
+        <item
+            android:id="@+id/mmesqel"
+            android:title="የመስቀል"
+            android:icon="@drawable/ic_baseline_menu_book_24"/>
+        <item
+            android:id="@+id/mtsige"
+            android:title="የጽጌ"
+            android:icon="@drawable/ic_baseline_menu_book_24"/>
+        <item
+            android:id="@+id/mlidet"
+            android:title="የልደት"
+            android:icon="@drawable/ic_baseline_menu_book_24"/>
+        <item
+            android:id="@+id/mtimeqet"
+            android:title="የጥምቀት"
+            android:icon="@drawable/ic_baseline_menu_book_24"/>
+        <item
+            android:id="@+id/mserg"
+            android:title="የሰርግ"
+            android:icon="@drawable/ic_baseline_menu_book_24"/>
+        <item
+            android:id="@+id/myensha"
+            android:title="የንስሀ"
+            android:icon="@drawable/ic_baseline_menu_book_24"/>
+        <item
+            android:id="@+id/mhosaena"
+            android:title="የሆሳህና"
+            android:icon="@drawable/ic_baseline_menu_book_24"/>
+        <item
+            android:id="@+id/mtinsae"
+            android:title="የትንሣኤ"
+            android:icon="@drawable/ic_baseline_menu_book_24"/>
+        <item
+            android:id="@+id/mmedihanialem"
+            android:title="የጌታችን የመድኃኒታችን የኢየሱስ ክርስቶስ"
+            android:icon="@drawable/ic_baseline_menu_book_24"/>
+        <item
+            android:id="@+id/memebete"
+            android:title="የእመቤታችን የቅድስት ድንግል ማርያም"
+            android:icon="@drawable/ic_baseline_menu_book_24"/>
+
+        <item
+            android:id="@+id/myemelaekt"
+            android:title="የቅዱሳን መላእክት"
+            android:icon="@drawable/ic_baseline_menu_book_24"/>
+        <item
+            android:id="@+id/mkidusan"
+            android:title="የቅዱሳን መዝሙራት"
+            android:icon="@drawable/ic_baseline_menu_book_24"/>
+        <item
+            android:id="@+id/mmahiber"
+            android:title="የዘማርያን የማህበር መዝሙራት"
+            android:icon="@drawable/ic_baseline_menu_book_24"/>
+
+
+    </group>
+
+    <item
+        android:title="መረጃወች">
+    <menu>
+        <item
+            android:id="@+id/nav_about"
+            android:title="ስለ መተግበርው"
+            android:icon="@drawable/ic_baseline_info_24"/>
+    </menu>
+    </item>
+
+    <item android:title="ለማጋራት">
+           <menu>
+      <item
+          android:id="@+id/nav_share"
+          android:title="አጋራ"
+          android:icon="@drawable/ic_baseline_share_24"/>
+           </menu>
+
+    </item>
+
+</menu>
