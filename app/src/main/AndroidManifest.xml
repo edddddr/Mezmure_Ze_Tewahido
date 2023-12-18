@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.abc.mezmuretewahido">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MezmureTewahido">
+        <activity android:name=".Mezmur14" />
+        <activity android:name=".Mezmur13" />
+        <activity android:name=".Mezmur12" />
+        <activity android:name=".Mezmur11" />
+        <activity android:name=".Mezmur10" />
+        <activity android:name=".Mawicha4" />
+        <activity android:name=".Mezmur9" />
+        <activity android:name=".Mezmur8" />
+        <activity android:name=".Mezmur7" />
+        <activity android:name=".Mawicha3" />
+        <activity android:name=".Mezmur6" />
+        <activity android:name=".Mezmur5" />
+        <activity android:name=".Mezmur4" />
+        <activity android:name=".Mawicha2" />
+        <activity android:name=".Mawicha1" />
+        <activity android:name=".Mezmur3" />
+        <activity android:name=".Mezmur2" />
+        <activity android:name=".Mezmur1" />
+        <activity android:name=".zirzir" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
