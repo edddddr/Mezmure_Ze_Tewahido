@@ -20,7 +20,10 @@
 |[gradle/wrapper](https://github.com/edddddr/Mezmure_Ze_Tewahido/tree/main/gradle/wrapper "gradle/wrapper")   |
 
 ## Sample Code
+
+
 #####Java
+
 
     public class Mawicha1 extends AppCompatActivity implements View.OnClickListener {
         private CardView Meze1;
@@ -88,6 +91,8 @@
         }
 
 #####XML
+
+
     <?xml version="1.0" encoding="utf-8"?>
     <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
         xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -124,6 +129,8 @@
 
 
 ## UI/UX
+
+
 - The UI/UX is designed using Adobe XD.
 - Their is four common layout pages.
 > -  Home page
